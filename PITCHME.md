@@ -1,7 +1,7 @@
 # 강은미
 별명 : 은박이, 갓은미 ^0^ <br/>
 성격 : 집순이..ㅎㅎ <br/>
-<img src="https://user-images.githubusercontent.com/18115456/50432677-cfb22580-0916-11e9-8aab-7e3afec6097e.jpg" width="300px" alt="은미 증명사진">
+<img src="https://user-images.githubusercontent.com/18115456/50432677-cfb22580-0916-11e9-8aab-7e3afec6097e.jpg" width="200px" alt="은미 증명사진"> <br/>
 연말 계획 : 집에서 가족들과 함께 종 치는 거 기다리기! with 치맥
 
 
