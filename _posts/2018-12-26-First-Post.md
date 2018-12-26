@@ -1,6 +1,6 @@
 
 
-# [1주차 Reflection] Design Thinking 방법론
+# [1주차]
 ## 입학식
 
 ## Hellow! Soft Wrold
@@ -11,7 +11,7 @@
 
 ## 로봇 경진대회
 
-## 아이디어톤
+## 아이디어톤 - Design Thinking 방법론
 ![default](https://user-images.githubusercontent.com/31179656/50433617-a98f8400-091c-11e9-9c72-3c3ddecc77ae.JPG)
 
 |단계|정의|활용 Tool|
