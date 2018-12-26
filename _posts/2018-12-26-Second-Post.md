@@ -9,7 +9,7 @@
 
 ---------------------------
 ## 구미 2반 '프로응답러' 팀의 챗봇 <br/>
--> https://github.com/EunmiKang/ProReplyer-chatbot
+-> ![프로응답러 팀 챗봇 github 링크](https://github.com/EunmiKang/ProReplyer-chatbot)
 ### 1. 목표
 쉬는 시간에 심심할 때, 시간을 보낼 수 있는 여러 가지 즐거운 요소들을 추천 받아보자!
 ### 2. 주요 기능
