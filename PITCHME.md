@@ -22,7 +22,7 @@
 # 신현주
 별명 : 행주 <br /> 
 성격 : 긍정적
-사진 : ![ex_screenshot](C:/down.jpg)
+사진 : ![down](https://user-images.githubusercontent.com/46036615/50432574-f7ed5480-0915-11e9-8409-433d713b1e2d.jpg)
 연말 계획 : 12월 30~ 1월 1일 부산 여행, 광안대교 상판에서 일출 ~
 
 
