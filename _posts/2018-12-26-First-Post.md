@@ -11,7 +11,7 @@
 ## 입학식
   2018 년 12월 10일 입학식 !!
 
-## Hellow! Soft Wrold
+## Hello! Soft World
 1. 선배에게 듣는 현장의 SW 이야기
 2. 커리어 로드맵
 3. 취업 전략
