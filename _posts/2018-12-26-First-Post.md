@@ -40,7 +40,7 @@
 ## 아이디어톤 - Design Thinking 방법론
 ![default](https://user-images.githubusercontent.com/31179656/50433617-a98f8400-091c-11e9-9c72-3c3ddecc77ae.JPG)
 
-|단계|정의|활용 Tool|
+|**단계**|**정의**|**활용 Tool**|
 |------|----------|---------|
 |<center>공감(empathize)</center>|관찰, 인터뷰, 체험으로 문제점을 발견|공감지도, 페르소나, 고객여정맵|
 |<center>문제정의(Define)</center>|문제점에 대해 정의하고 분석하는 단계|관점서술문|
