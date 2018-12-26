@@ -2,6 +2,7 @@
 
 1일차     | 2일차
 --------- | ---------
-Content 1 | Content 3
+웹 상의 수많은 데이터를 쉽고 빠르게 수집하여 의미있는 결과물을 만들어내고 응용하는 것이 목표.| Content 3
 Content 2 | Content 4
-구미_2_프로응답러, https://github.com/EunmiKang/ProReplyer-chatbot
+
+
