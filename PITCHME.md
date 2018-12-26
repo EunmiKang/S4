@@ -1,4 +1,4 @@
-# 강은미
+### 강은미
 <img src="https://user-images.githubusercontent.com/18115456/50432677-cfb22580-0916-11e9-8aab-7e3afec6097e.jpg" width="200px" alt="은미 증명사진"> <br/>
 * 별명 : 은박이, 갓은미 ^0^ <br/>
 * 성격 : 집순이..ㅎㅎ <br/>
