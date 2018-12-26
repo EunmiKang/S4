@@ -28,9 +28,8 @@
 3. 비전 수립 - 비전 선언문
 
 ## 로봇 경진대회
-![1](https://user-images.githubusercontent.com/46036615/50434439-849d1000-0920-11e9-9958-162f05b90b39.PNG)
-![2](https://user-images.githubusercontent.com/46036615/50434464-9bdbfd80-0920-11e9-8fce-193a8a0f4119.PNG)
-![3](https://user-images.githubusercontent.com/46036615/50434465-9da5c100-0920-11e9-9502-e4a21546445e.PNG)
+![default](https://user-images.githubusercontent.com/46036615/50434562-012fee80-0921-11e9-813f-416c26324f16.PNG)
+
 
 ## 아이디어톤 - Design Thinking 방법론
 ![default](https://user-images.githubusercontent.com/31179656/50433617-a98f8400-091c-11e9-9c72-3c3ddecc77ae.JPG)
