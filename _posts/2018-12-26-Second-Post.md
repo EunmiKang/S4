@@ -13,9 +13,9 @@
 #### 목표
 쉬는 시간에 심심할 때, 시간을 보낼 수 있는 여러 가지 즐거운 요소들을 추천 받아보자!
 #### 주요 기능
-<img src="https://user-images.githubusercontent.com/18115456/50434019-03914900-091f-11e9-90f3-f1eaee064af5.JPG">
+<img src="https://user-images.githubusercontent.com/18115456/50434019-03914900-091f-11e9-90f3-f1eaee064af5.JPG"><br/>
 #### 구현하는데 사용한 주기술
 웹 크롤링
 #### feedback
-- 더 많은 기능 추가
-- 이미지도 함께 보여주도록!
+* 더 많은 기능 추가
+* 이미지도 함께 보여주도록!
