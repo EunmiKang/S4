@@ -23,6 +23,7 @@
 
 ---
 ### 양혁진
+![1111](https://user-images.githubusercontent.com/31179656/50432636-8eba1100-0916-11e9-92ac-83db267452f0.jpg)
 
 
 #### 별명 : 양파, 양군 <br />
